@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maxim</h1>
 <h3 align="center">Junior DevOps Engineer</h3>
 
+- 🔭 I’m currently working on [ClSrvrMesseger](https://github.com/MaxSonchik/ClSrvrvMessager)
+
+- 🌱 I’m currently learning **In School21**
+
 - 📫 How to reach me **maxmax0906@mail.com**
 
 <h3 align="left">Connect with me:</h3>
